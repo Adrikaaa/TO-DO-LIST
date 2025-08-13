@@ -6,7 +6,7 @@ This was my very first project — created to learn the basics of web developmen
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to view the live app](https://vercel.com/adrika-banerjees-projects/to-do-list)
+🔗 [Click here to view the live app](https://to-do-list-tawny-six-85.vercel.app/)
 
 ---
 
